@@ -1,2 +1,1 @@
-# MangaSociety
-Un bot discord
+
